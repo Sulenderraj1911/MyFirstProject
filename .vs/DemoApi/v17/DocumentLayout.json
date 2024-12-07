@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|c:\\project drive\\dot net core project\\demoapi\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|c:\\project drive\\dot net core project\\demoapi\\demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|c:\\project drive\\dot net core project\\demoapi\\demoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|c:\\project drive\\dot net core project\\demoapi\\demoapi\\controllers\\getusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\controllers\\getusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|c:\\project drive\\dot net core project\\demoapi\\demoapi\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|c:\\project drive\\dot net core project\\demoapi\\demoapi\\controllers\\createbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\controllers\\createbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|c:\\project drive\\dot net core project\\demoapi\\demoapi\\model\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034B2A62-29AD-4859-899C-96712FA8351D}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\model\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoApi\\appsettings.json",
+              "ToolTip": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\appsettings.json",
+              "RelativeToolTip": "DemoApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T17:05:12.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "DemoApi\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:48:52.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Program.cs",
+              "ToolTip": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Program.cs",
+              "RelativeToolTip": "DemoApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:14:01.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Data\\Book.cs",
+              "ToolTip": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Data\\Book.cs",
+              "RelativeToolTip": "DemoApi\\Data\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:04:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateBookController.cs",
+              "DocumentMoniker": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Controllers\\CreateBookController.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Controllers\\CreateBookController.cs",
+              "ToolTip": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Controllers\\CreateBookController.cs",
+              "RelativeToolTip": "DemoApi\\Controllers\\CreateBookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:29:39.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserController.cs",
+              "DocumentMoniker": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Controllers\\GetUserController.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Controllers\\GetUserController.cs",
+              "ToolTip": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Controllers\\GetUserController.cs",
+              "RelativeToolTip": "DemoApi\\Controllers\\GetUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T17:21:39.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBook.cs",
+              "DocumentMoniker": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Model\\CreateBook.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Model\\CreateBook.cs",
+              "ToolTip": "C:\\Project Drive\\Dot Net Core Project\\DemoApi\\DemoApi\\Model\\CreateBook.cs",
+              "RelativeToolTip": "DemoApi\\Model\\CreateBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T18:07:09.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
